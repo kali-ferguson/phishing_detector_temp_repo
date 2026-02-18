@@ -1,3 +1,5 @@
+#Author: Kali Ferguson
+#GitHub link: https://github.com/Arial1000/
 import pandas as pd
 import re
 from sklearn.model_selection import train_test_split
