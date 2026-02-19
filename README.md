@@ -29,3 +29,8 @@ Team project developing a machine learning pipeline to detect phishing emails. T
    `python predict_subject.py  # for subject classification`   
    `python train_url_model.py      # for URL classification`
 
+## Future Work   
+- Add more features (email body, email header info, etc.)
+- Explore automated feature selection and optimization
+- Compare performance of additional models (Random Forest, XGBoost, etc.)
+
